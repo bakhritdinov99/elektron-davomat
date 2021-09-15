@@ -1,0 +1,2 @@
+# elektron-davomat
+Tashkilot yoki muassasalarda davomatning elektron tizimini yaratish orqali xodim, o'qituvchi, o'quvchilarning davomatini avtomatlashtirish ko'zda tutilgan. Istalgan Kamera  yordamida shaxs aniqlanadi, avvaldan kiritilgan baza bilan autentifikatsiya qilib solishtiriladi va yangi bazaga kelgan shaxslarning ID raqamini yozib boradi. Autentifikatsiya jarayoni yakunlangach, tashkilot yoki muassasaga keltirilgan bazadan kimlar kelgani yoki kimlar kelmagani haqida ma'lumot aniqlashtiriladi.
